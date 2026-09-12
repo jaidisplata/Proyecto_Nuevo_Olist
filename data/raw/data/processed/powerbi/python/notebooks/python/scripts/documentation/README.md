@@ -1,0 +1,1 @@
+Esta carpeta contiene la documentación del proyecto Olist, incluyendo descripciones del proceso de análisis, decisiones tomadas, resultados obtenidos y material de apoyo desarrollado durante el proyecto.
